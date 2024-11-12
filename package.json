@@ -1,9 +1,9 @@
 {
+  "homepage": "https://wilam2k.github.io/",
   "name": "wilam2k.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wilam2k.github.io/wilam2k.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
